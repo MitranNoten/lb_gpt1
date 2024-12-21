@@ -1,0 +1,15 @@
+C:\Users\mitra\OneDrive\Рабочий стол\архитектура\labs\II\bin\Debug\net8.0\II.exe
+C:\Users\mitra\OneDrive\Рабочий стол\архитектура\labs\II\bin\Debug\net8.0\II.deps.json
+C:\Users\mitra\OneDrive\Рабочий стол\архитектура\labs\II\bin\Debug\net8.0\II.runtimeconfig.json
+C:\Users\mitra\OneDrive\Рабочий стол\архитектура\labs\II\bin\Debug\net8.0\II.dll
+C:\Users\mitra\OneDrive\Рабочий стол\архитектура\labs\II\bin\Debug\net8.0\II.pdb
+C:\Users\mitra\OneDrive\Рабочий стол\архитектура\labs\II\obj\Debug\net8.0\II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitra\OneDrive\Рабочий стол\архитектура\labs\II\obj\Debug\net8.0\II.AssemblyInfoInputs.cache
+C:\Users\mitra\OneDrive\Рабочий стол\архитектура\labs\II\obj\Debug\net8.0\II.AssemblyInfo.cs
+C:\Users\mitra\OneDrive\Рабочий стол\архитектура\labs\II\obj\Debug\net8.0\II.csproj.CoreCompileInputs.cache
+C:\Users\mitra\OneDrive\Рабочий стол\архитектура\labs\II\obj\Debug\net8.0\II.dll
+C:\Users\mitra\OneDrive\Рабочий стол\архитектура\labs\II\obj\Debug\net8.0\refint\II.dll
+C:\Users\mitra\OneDrive\Рабочий стол\архитектура\labs\II\obj\Debug\net8.0\II.pdb
+C:\Users\mitra\OneDrive\Рабочий стол\архитектура\labs\II\obj\Debug\net8.0\II.genruntimeconfig.cache
+C:\Users\mitra\OneDrive\Рабочий стол\архитектура\labs\II\obj\Debug\net8.0\ref\II.dll
+C:\Users\mitra\OneDrive\Рабочий стол\архитектура\labs\II\obj\Debug\net8.0\II.sourcelink.json
